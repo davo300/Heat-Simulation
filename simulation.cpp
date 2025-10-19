@@ -1,5 +1,18 @@
 // COMP-4400 - Parallel Programming A
 // Matt Davies - ID: 110121897
+// g++ -std=c++17 simulation.cpp -o simulation \                           mattdavies@Matts-MacBook-Air-3
+/*
+Make sure OpenCV is properly installed an configured first.
+
+To compile:
+-I/opt/homebrew/opt/opencv/include/opencv4 \
+-L/opt/homebrew/opt/opencv/lib \
+-lopencv_core -lopencv_highgui -lopencv_imgproc 
+
+To run:
+./simulation 100 75 1e-3 top 
+*/
+   
 
 
 #include <opencv2/opencv.hpp>
