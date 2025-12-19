@@ -18,6 +18,8 @@ To run:
 ./simulation 100 75 1e-3 top 
 ```
 
+## Heat-simulation output:
+
 ![Heat simulation output](img/heatsimulation-output.png)
 
 
