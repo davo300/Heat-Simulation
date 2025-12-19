@@ -18,7 +18,7 @@ To run:
 ./simulation 100 75 1e-3 top 
 ```
 
-![Heat simulation output](Assignments/A1/img/heatsimulation-output.png)
+![Heat simulation output](img/heatsimulation-output.png)
 
 
 
